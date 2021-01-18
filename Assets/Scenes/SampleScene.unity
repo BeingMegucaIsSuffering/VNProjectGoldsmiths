@@ -545,11 +545,16 @@ PrefabInstance:
         type: 3}
       propertyPath: inkJSONAsset
       value: 
-      objectReference: {fileID: 4900000, guid: cf70e49b271a10e45bdf7ac9bd8f3e3b, type: 3}
+      objectReference: {fileID: 4900000, guid: 37a7002a767aa95408bb571e9a47fa92, type: 3}
+    - target: {fileID: 793127685309553807, guid: 29db439b78648444785279525bc4aae3,
+        type: 3}
+      propertyPath: leftActorPosition.x
+      value: -8
+      objectReference: {fileID: 0}
     - target: {fileID: 793127685309553807, guid: 29db439b78648444785279525bc4aae3,
         type: 3}
       propertyPath: rightActorPosition.x
-      value: 15
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 793127685309553807, guid: 29db439b78648444785279525bc4aae3,
         type: 3}
