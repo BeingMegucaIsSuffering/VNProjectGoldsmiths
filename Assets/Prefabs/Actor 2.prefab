@@ -45,10 +45,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   emotionSprites:
-  - {fileID: 21300000, guid: 039d0b7392c8a7a479ed9e0dd0aa76db, type: 3}
-  - {fileID: 21300000, guid: 19be6cb74f577a9499fb30387706ad5b, type: 3}
-  - {fileID: 21300000, guid: 4096ebab6d963ce4296558496172e76c, type: 3}
-  - {fileID: 21300000, guid: f649542b112cf3147a6f3e1dad64990b, type: 3}
+  - {fileID: 21300000, guid: 77ab3906bc51d754ca3fe88df1c7927e, type: 3}
+  - {fileID: 21300000, guid: 1e087793663a6324f8f5801024e36104, type: 3}
+  - {fileID: 21300000, guid: 2194d774635e58d4694d9366e3dad235, type: 3}
+  - {fileID: 21300000, guid: 4604a031881726447b980cb7a308a553, type: 3}
   ID: 0
   myState: 0
 --- !u!212 &-5551055043896129369
