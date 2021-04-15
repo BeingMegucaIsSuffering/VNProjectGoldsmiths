@@ -50,6 +50,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 4096ebab6d963ce4296558496172e76c, type: 3}
   - {fileID: 21300000, guid: f649542b112cf3147a6f3e1dad64990b, type: 3}
   ID: 0
+  myState: 0
 --- !u!212 &6176935578867598004
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -87,8 +88,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1843004271
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

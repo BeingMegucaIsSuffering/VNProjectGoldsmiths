@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 1669898369
+    locked: 0
+  - name: Canvas
+    uniqueID: 1843004271
+    locked: 0
