@@ -664,7 +664,7 @@ PrefabInstance:
         type: 3}
       propertyPath: inkJSONAsset
       value: 
-      objectReference: {fileID: 4900000, guid: ce079d058e1e3a84c8a77b3cc8aa6d52, type: 3}
+      objectReference: {fileID: 4900000, guid: 723e0e32521a5aa48b8dccd319370df1, type: 3}
     - target: {fileID: 793127685309553807, guid: 29db439b78648444785279525bc4aae3,
         type: 3}
       propertyPath: leftActorPosition.x
